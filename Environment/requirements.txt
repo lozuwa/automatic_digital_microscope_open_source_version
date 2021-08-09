@@ -163,7 +163,7 @@ python-firebase==1.2
 python-gflags==3.1.1
 PyTweening==1.0.3
 pytz==2017.2
-pywin32==220
+pywin32==301
 PyYAML==3.12
 pyzmq==16.0.2
 QtAwesome==0.4.4
