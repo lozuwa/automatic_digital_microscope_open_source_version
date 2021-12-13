@@ -93,7 +93,7 @@ Keras==2.0.2
 lazy-object-proxy==1.2.2
 llvmlite==0.16.0
 locket==0.2.0
-lxml==3.7.3
+lxml==4.6.5
 Markdown==2.6.8
 MarkupSafe==1.0
 marshmallow==2.13.5
