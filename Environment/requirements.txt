@@ -100,7 +100,7 @@ marshmallow==2.13.5
 matplotlib==2.0.0
 menuinst==1.4.4
 mido==1.2.4
-mistune==0.7.4
+mistune==2.0.3
 mock==2.0.0
 mpmath==0.19
 multipledispatch==0.4.9
